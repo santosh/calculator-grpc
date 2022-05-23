@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/santosh/example/calculator";
+option go_package = " github.com/santosh/calculator-grpc/calculator";
 
 package calculator;
 
